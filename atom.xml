@@ -6,7 +6,7 @@
   <link href="https://vegetableno1/vegetableno1.github.io/atom.xml" rel="self"/>
   
   <link href="https://vegetableno1/vegetableno1.github.io/"/>
-  <updated>2022-09-23T07:46:15.113Z</updated>
+  <updated>2022-09-27T08:32:46.000Z</updated>
   <id>https://vegetableno1/vegetableno1.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一篇正经博客</title>
+    <link href="https://vegetableno1/vegetableno1.github.io/2022/09/27/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%AD%A3%E7%BB%8F%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://vegetableno1/vegetableno1.github.io/2022/09/27/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%AD%A3%E7%BB%8F%E5%8D%9A%E5%AE%A2/</id>
+    <published>2022-09-27T08:29:01.000Z</published>
+    <updated>2022-09-27T08:32:46.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>虽然在两天前就将网站部署搞定，但是拖拖拉拉到现在才开始第一篇博客的书写。希望以后能多多利用好这个空间。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;虽然在两天前就将网站部署搞定，但是拖拖拉拉到现在才开始第一篇博客的书写。希望以后能多多利用好这个空间。&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="life" scheme="https://vegetableno1/vegetableno1.github.io/tags/life/"/>
+    
+  </entry>
   
   <entry>
     <title>test_my_site</title>

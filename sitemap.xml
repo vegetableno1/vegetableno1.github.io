@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://vegetableno1/vegetableno1.github.io/2022/09/27/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%AD%A3%E7%BB%8F%E5%8D%9A%E5%AE%A2/</loc>
+    
+    <lastmod>2022-09-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://vegetableno1/vegetableno1.github.io/2022/09/23/test-my-site/</loc>
     
     <lastmod>2022-09-23</lastmod>
@@ -27,6 +36,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://vegetableno1/vegetableno1.github.io/tags/life/</loc>
+    <lastmod>2022-09-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
